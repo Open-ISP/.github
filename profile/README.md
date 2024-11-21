@@ -1,5 +1,3 @@
-*_An accessible and transparent electricity system model based on the Australian Energy Market Operator’s ‘Integrated System Plan’._*
-
 ## Overview
 
 This project aims to provide open and accessible energy modelling tools that enable high-quality research and analysis of potential energy transition pathways for Australia’s National Electricity Market (NEM).
